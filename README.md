@@ -5,8 +5,7 @@
 
 <div align = right>
 
-[![Badge License]][License]   
-[![Badge Authors]][Authors]          
+       
 
 </div>
 
@@ -67,9 +66,17 @@ edit files such as `MOTD` or `maplist` in only a few clicks.
 <br>
 <br>
 
-[![Button GitHub]][GitHub]   
-[![Button GameBanana]][GameBanana]   
+[![Button GameBanana]][GameBanana] 
+
 [![Button DropBox]][DropBox]
+
+[![Badge License]][License]  
+
+[![Badge Authors]][Authors]  
+
+[![Button Tutorials]][Tutorials] 
+
+[![Button Changelog]][Changelog]
 
 </div>
 
